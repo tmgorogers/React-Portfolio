@@ -7,6 +7,12 @@
   pointer-events: none;
 }
 
+@media only screen and (min-width: 1024px) {
+  .About .Contact .Home .NavBar .Skills .Projects .PageHeader{
+    display:flex;
+  }
+}
+
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
