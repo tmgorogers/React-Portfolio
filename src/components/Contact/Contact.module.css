@@ -1,0 +1,13 @@
+.Contact {
+    background: #361E46;
+    height: 300px;
+    display: flex;
+    align-items: center;
+}
+
+.Contact .ContactIcons{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
