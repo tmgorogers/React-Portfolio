@@ -8,15 +8,15 @@
 
    * List of technologies used
 
-   -HTMl
+   -React
 
    -CSS
 
-   -Bootstrap
+   -Heroku
 
    -GitHub
 
-   * React Portfolio featuring Project 1 and two exemplary homework assignments. Updated Github profile with 6 pinned repositories. Updated resume and LinkedIn.
+   * React Portfolio featuring Project 1 and 5 exemplary homework assignments. Updated Github profile with 6 pinned repositories. Updated resume and LinkedIn.
   
    * Screenshots
 
