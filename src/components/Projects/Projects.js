@@ -4,7 +4,7 @@ import Codeaware from './../../img/codeaware.png'
 import FitnessTracker from './../../img/fitnessTracker.png'
 import NoteTaker from './../../img/noteTaker.png'
 import PasswordGenerator from './../../img/password-Generator.png'
-import ReadmeGenerator from './../../img/readmeGenerator.mp4'
+
 import WorkDayScheduler from './../../img/workDayScheduler.png'
 
 const playBtnSvg =(url => {
@@ -46,9 +46,6 @@ const workDaySchedulerProjectdescription= ' A simple calendar application that a
 
 const noteTakerProjectdescription= 'A small business owner want to write and save notes. So that they can organize their thoughts and keep track of tasks they need to complete'
 
-const readmeGeneratorProjectdescription= 'Create a README file by using a command-line to generate one.'
-
-
 const fitnessTrackerProjectdescription= 'As a user, I want to be able to view create and track daily workouts. I want to be able to log multiple exercises in a workout on a given day. I should also be able to track the name, type, weight, sets, reps, and duration of exercise. If the exercise is a cardio exercise, I should be able to track my distance traveled.'
 
 const codeawareProjectdescription= 'The purpose of this project is to have a place for students who are just learning to code to have a community dashboard to access several coding resources. The user will be able to select from several options to create their own customized dashboard of coding options. The site provides four different options: Train Your Skills, Chat Room, Resource Sharing, and a Success Tracker.'
@@ -66,7 +63,6 @@ const Projects = () => {
                     {projectPhoto("https://tmgorogers.github.io/Password-Generator/", PasswordGenerator, passwordGeneratorProjectdescription) }
                     {projectPhoto("https://tmgorogers.github.io/Work-Day-Scheduler/", WorkDayScheduler, workDaySchedulerProjectdescription) }
                     {projectPhoto("https://drive.google.com/file/d/1oQLs3-e0oCmV35OC7y3imaX0qEEtGZ6Z/view?usp=sharing/", NoteTaker, noteTakerProjectdescription) }
-                    {projectPhoto("https://drive.google.com/file/d/1gmPX8c10ZbxrijbcaUMLzd43wCtQ6hb3/view?usp=sharing", ReadmeGenerator, readmeGeneratorProjectdescription) }
                     {projectPhoto("https://tmgorogers.github.io/Workout-Tracker/", FitnessTracker, fitnessTrackerProjectdescription) }
                     {projectPhoto("https://fullstack-dashboard.herokuapp.com/", Codeaware, codeawareProjectdescription) }
                 </div>

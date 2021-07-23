@@ -9,7 +9,7 @@ const About = () => {
             <div className={classes.Container}>
                 <div className={classes.Text}></div>
                 <h2>Hello! I'm Tierra</h2>
-                <p>I am currently attending UNC-Charlotte Coding Program in Full Stack Web Development.</p>
+                <p>Highly self-motivated and goal-oriented professional committed to pursuing a long-term career change in Full Stack Web development. Offers a 15-year track record demonstrating strong analytical and problem-solving skills, computer proficiency and ability to follow through with projects from inception to completion.  Earned a certificate in Full Stack Web Development from the University of North Carolina of Charlotte Coding Boot Cam</p>
             </div>
            <div className={classes.Photo}>
                <img className={classes.Me} src={profilePic} alt="me"></img>

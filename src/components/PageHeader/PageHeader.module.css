@@ -1,6 +1,6 @@
 .Container{
-    display: flex;
-    position: relative;
+display: flex;
+position: relative;
 justify-content: center;
 align-items: center;
 padding-bottom: 2%;

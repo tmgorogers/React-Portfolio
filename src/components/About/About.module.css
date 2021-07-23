@@ -8,7 +8,7 @@
     justify-content: left;
 }*/
 
-.AboutMe .Container.Text{
+.AboutMe .Container .Text{
     width: 47%;
     margin-left: 3%;
     color: white;
@@ -23,6 +23,7 @@
     height: 500px;
     border-radius: 10%;
     display: flex;
+    justify-content: right;
    
 
 }
