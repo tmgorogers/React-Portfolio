@@ -1,9 +1,9 @@
 import PageHeader from "../PageHeader/PageHeader";
 import classes from "./Projects.module.css";
 import connectDatingApp from "./../../img/connectDatingApp.png";
-import FitnessTracker from "./../../img/fitnessTracker.png";
+import FitnessTracker from "./../../img/FitnessTracker.png";
 import NoteTaker from "./../../img/noteTaker.png";
-import PasswordGenerator from "./../../img/password-Generator.png";
+import PasswordGenerator from "./../../img/Password-Generator.png";
 
 import WorkDayScheduler from "./../../img/workDayScheduler.png";
 
