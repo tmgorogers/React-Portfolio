@@ -20,9 +20,6 @@
 .Projects .ProjectsContainer .Thumbnail img{
     max-width:200px;
 }
-.Projects .ProjectsContainer .Thumbnail img WorkDayScheduler{
-    max-width: 200px;
-}
 
 
 .Projects .ProjectsContainer .Text{
@@ -42,6 +39,7 @@
   width: 24%;
   left: 38%;  
   top:29%;
+  cursor: pointer;
   
 }
 
