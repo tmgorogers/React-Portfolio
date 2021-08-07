@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/React-Portfolio/static/css/main.37b175fb.chunk.css",
-    "main.js": "/React-Portfolio/static/js/main.01890a5e.chunk.js",
-    "main.js.map": "/React-Portfolio/static/js/main.01890a5e.chunk.js.map",
-    "runtime-main.js": "/React-Portfolio/static/js/runtime-main.b2027dc7.js",
-    "runtime-main.js.map": "/React-Portfolio/static/js/runtime-main.b2027dc7.js.map",
-    "static/js/2.db22c2b5.chunk.js": "/React-Portfolio/static/js/2.db22c2b5.chunk.js",
-    "static/js/2.db22c2b5.chunk.js.map": "/React-Portfolio/static/js/2.db22c2b5.chunk.js.map",
-    "static/js/3.5cce342b.chunk.js": "/React-Portfolio/static/js/3.5cce342b.chunk.js",
-    "static/js/3.5cce342b.chunk.js.map": "/React-Portfolio/static/js/3.5cce342b.chunk.js.map",
+    "main.css": "/React-Portfolio/static/css/main.3f4afd1c.chunk.css",
+    "main.js": "/React-Portfolio/static/js/main.80aa36c6.chunk.js",
+    "main.js.map": "/React-Portfolio/static/js/main.80aa36c6.chunk.js.map",
+    "runtime-main.js": "/React-Portfolio/static/js/runtime-main.ee48fdf5.js",
+    "runtime-main.js.map": "/React-Portfolio/static/js/runtime-main.ee48fdf5.js.map",
+    "static/js/2.4670e16d.chunk.js": "/React-Portfolio/static/js/2.4670e16d.chunk.js",
+    "static/js/2.4670e16d.chunk.js.map": "/React-Portfolio/static/js/2.4670e16d.chunk.js.map",
+    "static/js/3.5a30146b.chunk.js": "/React-Portfolio/static/js/3.5a30146b.chunk.js",
+    "static/js/3.5a30146b.chunk.js.map": "/React-Portfolio/static/js/3.5a30146b.chunk.js.map",
     "index.html": "/React-Portfolio/index.html",
-    "static/css/main.37b175fb.chunk.css.map": "/React-Portfolio/static/css/main.37b175fb.chunk.css.map",
-    "static/js/2.db22c2b5.chunk.js.LICENSE.txt": "/React-Portfolio/static/js/2.db22c2b5.chunk.js.LICENSE.txt",
+    "static/css/main.3f4afd1c.chunk.css.map": "/React-Portfolio/static/css/main.3f4afd1c.chunk.css.map",
+    "static/js/2.4670e16d.chunk.js.LICENSE.txt": "/React-Portfolio/static/js/2.4670e16d.chunk.js.LICENSE.txt",
     "static/media/FitnessTracker.038462b8.png": "/React-Portfolio/static/media/FitnessTracker.038462b8.png",
     "static/media/Password-Generator.593f88de.png": "/React-Portfolio/static/media/Password-Generator.593f88de.png",
     "static/media/code.157775ed.svg": "/React-Portfolio/static/media/code.157775ed.svg",
@@ -21,9 +21,9 @@
     "static/media/workDayScheduler.a97ad708.png": "/React-Portfolio/static/media/workDayScheduler.a97ad708.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.b2027dc7.js",
-    "static/js/2.db22c2b5.chunk.js",
-    "static/css/main.37b175fb.chunk.css",
-    "static/js/main.01890a5e.chunk.js"
+    "static/js/runtime-main.ee48fdf5.js",
+    "static/js/2.4670e16d.chunk.js",
+    "static/css/main.3f4afd1c.chunk.css",
+    "static/js/main.80aa36c6.chunk.js"
   ]
 }
